@@ -74,7 +74,8 @@ import static android.graphics.Color.argb;
 
 public class PickerViewModule extends ReactContextBaseJavaModule implements LifecycleEventListener {
 
-    private static final String REACT_CLASS = "BEEPickerManager";
+//     private static final String REACT_CLASS = "BEEPickerManager";
+     private static final String REACT_CLASS = "BEEPickerManager";
 
     private static final String PICKER_DATA = "pickerData";
     private static final String SELECTED_VALUE = "selectedValue";
